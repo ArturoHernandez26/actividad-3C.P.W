@@ -1,0 +1,17 @@
+
+    .main{
+    
+    }
+    body{
+        background-color:#57cc99;
+    
+    }
+    div{
+        position: relative;
+    }
+    .cuadrado{
+        height: 90%;
+        width: 100%;
+        background-color:#22577a ;
+        position: absolute;
+    }
